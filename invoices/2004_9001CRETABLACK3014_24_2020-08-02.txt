@@ -1,0 +1,8 @@
+Oder Placed Successfully. Check order details:
+------------------DETAILS--------------------------------------------------
+Date: 2020-08-02
+Product ID: 9001
+Product name: Creta
+Product color: black
+Quantity: 24
+---------------------------------------------------------------------------
